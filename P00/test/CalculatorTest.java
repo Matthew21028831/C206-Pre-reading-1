@@ -88,6 +88,4 @@ public class CalculatorTest {
 	public void tearDown() throws Exception {
 	}
 
-
-
 }
