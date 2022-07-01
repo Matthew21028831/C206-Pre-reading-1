@@ -16,6 +16,7 @@ public class Calculator {
 		if (b==0) {
 			throw new IllegalArgumentException("Division by zero is not supported");
 		}
+		
 		return a/b;
 	}
 
